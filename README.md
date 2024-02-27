@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Ibrahim.
 I am majoring in Computer Science at Bilkent University.
-I am a freshman and I am trying to improve my coding skills. 
+I am a sophomore, and I am trying to improve my coding skills. 
 
 <!--
 **IbrahimCayci/IbrahimCayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
